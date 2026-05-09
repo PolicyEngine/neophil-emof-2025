@@ -20,6 +20,11 @@ venv/
 # Build artifacts
 build/
 site/dist/
+site/.next/
+site/out/
+site/.vercel/
+site/*.tsbuildinfo
+site/next-env.d.ts
 
 # Environment
 .env
