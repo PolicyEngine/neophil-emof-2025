@@ -6,7 +6,6 @@ export const metadata: Metadata = {
   title: 'NEO Philanthropy EMOF Application | PolicyEngine',
   description:
     "PolicyEngine's application to the NEO Philanthropy Economic Mobility and Opportunity Fund.",
-  icons: { icon: '/vite.svg' },
 };
 
 export default function RootLayout({
